@@ -9,7 +9,7 @@
 
 **Link to work:** Start again here tomorrow: https://guides.github.com/activities/hello-world/
 
-### Day 5: May 11, 2018 
+### Day 6: May 11, 2018 
 ##### (Wow, totally forgot to append to this)
 
 **Today's Progress**: Over the past 10 days or so I have learned to format a lot of HTML using CSS. It has helped me with projects at work and will help me with my own website.
@@ -20,3 +20,18 @@
 http://connectedwarriors.org/stss
 https://connectedwarriors.org/2018-stars-of-honor-gala/
 https://www.givegab.com/campaigns/stss
+
+
+
+### Day 7: May 12, 2018 
+##### (Updated above entry from day 5 to day 6)
+
+**Today's Progress**: Things I learned today:
+Creating text fields, creating forms, creating radio buttons and checkboxes, making fields required, creating a div element, nesting and what it means, giving div elements a background color, setting an ID element although I'm not sure what that is for.
+
+I spent about half an hour on it and then another half hour trying to figure out github.
+
+**Thoughts:** I'm not feeling well this morning but I am still doing this.
+
+**Link to work:**
+Nothing for today
