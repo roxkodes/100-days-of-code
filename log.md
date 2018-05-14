@@ -35,3 +35,16 @@ I spent about half an hour on it and then another half hour trying to figure out
 
 **Link to work:**
 Nothing for today
+
+
+### Day 8: May 14, 2018 
+##### (More styling and intro to boostrap)
+
+**Today's Progress**: Creating buttons in-line styling, tyling HTML, using clockwise notation, margins and padding, overriding styles using CSS, HEX and RBG color, using ID attirbutes to style elements, making images mobile responsive, bootstrap.
+
+Time commitment 1.5 to 2 hours today. 
+
+**Thoughts:** I was very focused and spent more time on it today.
+
+**Link to work:**
+Nothing for today
