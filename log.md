@@ -48,3 +48,16 @@ Time commitment 1.5 to 2 hours today.
 
 **Link to work:**
 Nothing for today
+
+
+### Days 9 & 10: May 16, 2018 
+##### (Bootsrap and responsive design)
+
+**Today's Progress**: Styling from scratch adding headers and buttons. Sizing them, labeling them with IDs using bootstrap.
+
+Time commitment Maybe 1 hour to 1.5 hours 
+
+**Thoughts:** I'm tired but I am happy I made time to dedicate to this.
+
+**Link to work:**
+Nothing for today
