@@ -61,3 +61,17 @@ Time commitment Maybe 1 hour to 1.5 hours
 
 **Link to work:**
 Nothing for today
+
+
+### Days 11: May 17, 2018 
+##### (jQuery - yay!)
+
+**Today's Progress**: I've conquered the fear from last year's jQuery failure. Last year, didn't get jQuery at all and now I'm feeling more confident... or was it Java Script? I think it was jQuery.
+
+Time commitment 30 minutes. I have a meeting.
+
+**Thoughts:** 
+Early morning is better than later in the evening.
+
+**Link to work:**
+Nothing for today
