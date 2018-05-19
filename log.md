@@ -75,3 +75,18 @@ Early morning is better than later in the evening.
 
 **Link to work:**
 Nothing for today
+
+### Day 12: May 19, 2018 
+##### (OMG)
+
+**Today's Progress**: I've finished all of the jQuery tutorials and will now start the HFS Challenge or Holy Fucking Shit Challenge because that's how my stomach feels... like "How am I even going to do this? from scratch?!!?"
+
+I am confident that I can do it... I just have to start and I will start tomorrow.
+
+I spent about 3 hours today.
+
+**Thoughts:** 
+My stomach is turning at the though of starting something from scratch with just a blank black screen but I am inspired to see what I can do.
+
+**Link to work:**
+Nothing for today
