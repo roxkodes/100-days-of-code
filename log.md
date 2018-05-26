@@ -90,3 +90,40 @@ My stomach is turning at the though of starting something from scratch with just
 
 **Link to work:**
 Nothing for today
+
+### Day 13: May 26, 2018 
+##### (OMG)
+
+**Today's Progress**: I've been working on a tribute page for most of the day, I started by making one for my dad and got frustrated so I deleted everything and started over...
+
+**Thoughts:** 
+It takes time. Maybe I shouldn't delete everything next time but work with what I have
+
+**Link to work:**
+### Day 12: May 19, 2018 
+##### (OMG)
+
+**Today's Progress**: I've finished all of the jQuery tutorials and will now start the HFS Challenge or Holy Fucking Shit Challenge because that's how my stomach feels... like "How am I even going to do this? from scratch?!!?"
+
+I am confident that I can do it... I just have to start and I will start tomorrow.
+
+I spent about 3 hours today.
+
+**Thoughts:** 
+My stomach is turning at the though of starting something from scratch with just a blank black screen but I am inspired to see what I can do.
+
+**Link to work:**
+### Day 12: May 19, 2018 
+##### (OMG)
+
+**Today's Progress**: I've finished all of the jQuery tutorials and will now start the HFS Challenge or Holy Fucking Shit Challenge because that's how my stomach feels... like "How am I even going to do this? from scratch?!!?"
+
+I am confident that I can do it... I just have to start and I will start tomorrow.
+
+I spent about 3 hours today.
+
+**Thoughts:** 
+My stomach is turning at the though of starting something from scratch with just a blank black screen but I am inspired to see what I can do.
+
+**Link to work:**
+https://codepen.io/roxkodes/pen/RyXoJM?editors=1100
