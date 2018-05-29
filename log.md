@@ -114,3 +114,18 @@ I played around with CSS Class assignment to HTML elements. It helped me underst
 
 **Link to work:**
 https://codepen.io/roxkodes/pen/RyXoJM
+
+
+### Day 15: May 29, 2018 
+##### Tribute Page for Dad
+
+**Today's Progress**: 
+I'm adding to my work and getting more comfortable with CSS. My strategy now is to focus on one thing for 20 to 30 minutes every day. For example, my goal today was to work on the <div> elements within my project and I was able to achive my objective to 1. center the image, make it responsive and reduce the size. 
+
+Time Commitment: 20 to 30 min
+
+**Thoughts:** 
+Yeah!!! Feeling confident about using css to style my html elements and/or a mixture of both.
+
+**Link to work:**
+https://codepen.io/roxkodes/pen/RyXoJM
